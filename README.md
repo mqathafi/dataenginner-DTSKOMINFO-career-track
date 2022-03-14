@@ -11,10 +11,8 @@ seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
 ![image](https://user-images.githubusercontent.com/38604611/158110295-05b628df-2e0f-4765-99fc-3f4a83041c37.png)
 
 # 👽 Table Of Content
-  [1. Memahami Bahasa Pemrograman Fundamental](https://academy.dqlab.id/main/track/67 )
-    
-        
-        
+  [1. Memahami Bahasa Pemrograman Fundamental](https://github.com/mqathafi/dataenginner-DTSKOMINFO-career-track/edit/main/README.md)
+          
         
   - [Python for Data Professional Beginner - Part 1](https://github.com/mqathafi/dataenginner-DTSKOMINFO-career-track/edit/main/README.md)
   
