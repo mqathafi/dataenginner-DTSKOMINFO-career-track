@@ -16,7 +16,7 @@ See my [About](/Memahami_Bahasa_Pemrograman_Fundamental.md/) page for details.
 
 
 
-1. [Memahami Bahasa Pemrograman Fundamental](/Python_for_Data_Professional_Beginner_-_Part_1.md/)
+1. [Memahami Bahasa Pemrograman Fundamental](#python-for-data-professional-beginner---part-1)
    - [Python for Data Professional Beginner - Part 1](https://github.com/mqathafi/dataenginner-DTSKOMINFO-career-track/README.md)
    - [Python for Data Professional Beginner - Part 2](https://github.com/mqathafi/dataenginner-DTSKOMINFO-career-track)
    - [Python for Data Professional Beginner - Part 3](https://github.com/mqathafi/dataenginner-DTSKOMINFO-career-track)
