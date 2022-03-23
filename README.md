@@ -13,7 +13,7 @@ seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
 # 👽 Table Of Content
 
 
-1. [Memahami Bahasa Pemrograman Fundamental](#python-for-data-professional-beginner---part-1)
+1. [Python for Data Professional Beginner](#python-for-data-professional-beginner---part-1)
    - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
    - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
    - [Python for Data Professional Beginner - Part 3](#python-for-data-professional-beginner---part-3)
@@ -54,7 +54,7 @@ seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
   
   
   
-# 🐍 Bahasa Pemrograman Fundamental
+# 🐍 Python for Data Professional Beginner
  
    ### Python for Data Professional Beginner - Part 1
    ![Jepretan Layar 2022-03-24 pukul 03 47 14](https://user-images.githubusercontent.com/38604611/159792863-d0f12d1b-5557-4192-9ef3-8d8f3c9bba1e.png)
