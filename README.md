@@ -16,10 +16,10 @@ See my [About](/Memahami_Bahasa_Pemrograman_Fundamental.md/) page for details.
 
 
 
-1. [Memahami Bahasa Pemrograman Fundamental](python-for-data-professional-beginner---part-1)
-   - [Python for Data Professional Beginner - Part 1](python-for-data-professional-beginner---part-1)
-   - [Python for Data Professional Beginner - Part 2](python-for-data-professional-beginner---part-2)
-   - [Python for Data Professional Beginner - Part 3](python-for-data-professional-beginner---part-3)
+1. [Memahami Bahasa Pemrograman Fundamental](#python-for-data-professional-beginner---part-1)
+   - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
+   - [Python for Data Professional Beginner - Part 2](#python-for-data-professional-beginner---part-2)
+   - [Python for Data Professional Beginner - Part 3](#python-for-data-professional-beginner---part-3)
   
   
  2. [Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT](https://academy.dqlab.id/main/track/67 )
