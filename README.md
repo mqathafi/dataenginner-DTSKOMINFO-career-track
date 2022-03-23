@@ -58,6 +58,9 @@ seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
  
    ### Python for Data Professional Beginner - Part 1
    ![Jepretan Layar 2022-03-24 pukul 03 47 14](https://user-images.githubusercontent.com/38604611/159792863-d0f12d1b-5557-4192-9ef3-8d8f3c9bba1e.png)
+   ![Jepretan Layar 2022-03-24 pukul 03 49 37](https://user-images.githubusercontent.com/38604611/159793304-656a1cb3-9f7e-445b-bcac-df4489dfb806.png)
+
+   
 
   
    ### Python for Data Professional Beginner - Part 2
