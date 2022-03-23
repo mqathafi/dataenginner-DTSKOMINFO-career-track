@@ -12,9 +12,6 @@ seperti Traveloka, PT. BUMA, Kompas.com, dan GOJEK.
 
 # 👽 Table Of Content
 
-See my [About](/Memahami_Bahasa_Pemrograman_Fundamental.md/) page for details.   
-
-
 
 1. [Memahami Bahasa Pemrograman Fundamental](#python-for-data-professional-beginner---part-1)
    - [Python for Data Professional Beginner - Part 1](#python-for-data-professional-beginner---part-1)
@@ -22,10 +19,10 @@ See my [About](/Memahami_Bahasa_Pemrograman_Fundamental.md/) page for details.
    - [Python for Data Professional Beginner - Part 3](#python-for-data-professional-beginner---part-3)
   
   
- 2. [Memahami Bahasa SQL dan Sistem Database Relasional agar dapat mengolah data di Perusahaan Yang Sudah Menerapkan Sistem IT](https://academy.dqlab.id/main/track/67 )
-     - [Fundamental SQL Using SELECT Statement](Python for Data Professional Beginner - Part 1)
-     - [Fundamental SQL Using FUNCTION and GROUP BY]
-     - [Fundamental SQL Using INNER JOIN and UNION]
+ 2. [Fundamental SQL](#fundamental-sql-using-select-statement)
+     - [Fundamental SQL Using SELECT Statement](#fundamental-sql-using-select-statement)
+     - [Fundamental SQL Using FUNCTION and GROUP BY](#fundamental-sql-using-function-and-group-by)
+     - [Fundamental SQL Using INNER JOIN and UNION](#fundamental-sql-using-inner-join-and-union)
    
   
  3. [Memahami Konsep dan Penerapan Exploratory Data Analysis dalam Studi Kasus Bisnis](https://github.com/mqathafi/dataenginner-DTSKOMINFO-career-track/edit/main/README.md)
@@ -57,16 +54,26 @@ See my [About](/Memahami_Bahasa_Pemrograman_Fundamental.md/) page for details.
   
   
   
- ## Memahami Bahasa Pemrograman Fundamental
+# 🐍 Bahasa Pemrograman Fundamental
  
- ### Python for Data Professional Beginner - Part 1
-
+   ### Python for Data Professional Beginner - Part 1
+   ![Jepretan Layar 2022-03-24 pukul 03 47 14](https://user-images.githubusercontent.com/38604611/159792863-d0f12d1b-5557-4192-9ef3-8d8f3c9bba1e.png)
 
   
-  | Left-aligned | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+   ### Python for Data Professional Beginner - Part 2
   
+  
+   ### Python for Data Professional Beginner - Part 3
+   
+   
+ # 🗄 Fundamental SQL
+ 
+   ### Fundamental SQL Using SELECT Statement
+   ### Fundamental SQL Using FUNCTION and GROUP BY
+   ### Fundamental SQL Using INNER JOIN and UNION
+   
+   
+
+
   
 
